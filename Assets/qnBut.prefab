@@ -210,6 +210,9 @@ MonoBehaviour:
   msnd: {fileID: 0}
   mtrd: {fileID: 0}
   mfth: {fileID: 0}
+  amCorrect: 1:02:03:04:0
+  prevClicked: 0
+  myData: 
 --- !u!1 &5869750961695588227
 GameObject:
   m_ObjectHideFlags: 0
